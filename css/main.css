@@ -1,0 +1,43 @@
+
+body { 
+
+}
+.projects{
+  width:800px;
+
+}
+
+.project1{
+    position:relative;
+    right:20px;
+}
+  #container {
+    margin: 0 auto;
+  	max-width: 800px;
+    color: blue;-webkit-font-smoothing: antialiased;
+    font-family: 'Lobster', cursive;
+    font: 32px Raleway, sans-serif;
+    text-shadow: 2px 2px yellow;
+  }
+center-me {
+    margin: 0 auto;
+  * {
+    margin: 0px;
+    padding: 0px;
+}
+	#container {margin: 0 auto;
+  	max-width: 650px;
+  		/* I put "max-width" rather than "width" because
+    		 if the screen width is less than 650px, it will shrink accordingly. */
+    		}
+h1 {
+  /* here I'm making the title not bold (by default headings are always bold)
+     centered, larger, tighter leading, and with some bottom space or margin */
+  font-weight: normal;
+  text-align: center;
+  font-size: 3em;
+  line-height: 1.1;
+  margin-bottom: 2em;
+}
+ 
+
